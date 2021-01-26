@@ -14,3 +14,10 @@ Source fullpathname;
 -- Amount will be a derived attribute
 if (issue Date - return date)>14 days
 then amount = Fine*((issue Date - return date)-14)
+
+TO DO
+
+- [x] Create the tables
+- [x] Insert values into the table
+- [] Create the queries to show
+
