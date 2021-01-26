@@ -9,7 +9,8 @@ CREATE DATABASE IF NOT EXISTS database_name
 
 .Quickly execute sql script
 1) Open mysql terminal
-2) Type 
+2) Chnage to database
+3) Type 
 Source fullpathname;
 
 <!---
