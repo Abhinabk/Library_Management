@@ -24,4 +24,3 @@ TO DO
 - [x] Create the tables
 - [x] Insert values into the table
 - [] Create the queries to show
-
