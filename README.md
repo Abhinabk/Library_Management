@@ -1,6 +1,8 @@
 # Library_Management
 A simple sibrary management system for mini project usinng only sql
 
+
+
 .Creating a database
 
 CREATE DATABASE IF NOT EXISTS database_name
@@ -10,10 +12,12 @@ CREATE DATABASE IF NOT EXISTS database_name
 2) Type 
 Source fullpathname;
 
-
--- Amount will be a derived attribute
+<!---
+Amount will be a derived attribute
 if (issue Date - return date)>14 days
 then amount = Fine*((issue Date - return date)-14)
+---> 
+
 
 TO DO
 
